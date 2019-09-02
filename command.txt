@@ -1,0 +1,10 @@
+npm init --yes          =>          for start the environment. 
+
+
+
+CRUD methods
+post        => create
+get         => read
+put         => update
+delete    => delete
+
